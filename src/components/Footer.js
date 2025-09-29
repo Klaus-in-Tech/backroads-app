@@ -30,6 +30,7 @@ const Footer = () => {
           <a
             href="https://www.twitter.com"
             target="_blank"
+            rel="noreferrer"
             className="footer-icon"
           >
             <i className="fab fa-facebook"></i>
@@ -39,6 +40,7 @@ const Footer = () => {
           <a
             href="https://www.twitter.com"
             target="_blank"
+            rel="noreferrer"
             className="footer-icon"
           >
             <i className="fab fa-twitter"></i>
@@ -48,6 +50,7 @@ const Footer = () => {
           <a
             href="https://www.twitter.com"
             target="_blank"
+            rel="noreferrer"
             className="footer-icon"
           >
             <i className="fab fa-squarespace"></i>
